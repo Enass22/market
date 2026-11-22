@@ -1,5 +1,5 @@
 import React from "react";
-import AllProducts from "@/app/-components/AllProducts/page";
+import AllProducts from "@/app/_components/AllProducts/page";
 
 export default async function Products() {
   return (

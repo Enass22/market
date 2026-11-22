@@ -1,6 +1,6 @@
-import MainSlider from "./-components/mainSlider/page";
-import CategoyrySlider from "./-components/categorySlider/page";
-import AllProducts from "./-components/AllProducts/page";
+import MainSlider from "./_components/mainSlider/page";
+import CategoyrySlider from "./_components/categorySlider/page";
+import AllProducts from "./_components/AllProducts/page";
 
 export default function Home() {
   return (
